@@ -79,7 +79,7 @@ function App() {
                 <div className="gift-box-bottom"></div>
               </div>
               <div className="error-message">
-                <h3>🚫 Build Unsuccessful!</h3>
+                <h3>Build Unsuccessful!</h3>
                 <p>Oops! Something went wrong while preparing your gift.</p>
                 <button 
                   className="retry-button"
